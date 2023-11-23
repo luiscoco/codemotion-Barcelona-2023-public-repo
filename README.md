@@ -6,7 +6,11 @@
 
 1.1. Instalación de .NET 8 SDK: https://dotnet.microsoft.com/es-es/download/dotnet/thank-you/sdk-8.0.100-windows-x64-installer
        
-Comprobar la instalación ejecutando el comando: **dotnet --version**
+Comprobar la instalación ejecutando el comando: 
+
+```
+dotnet --version
+```
 
 1.2. Instalación de Visual Studio 2022 Community Edition: https://visualstudio.microsoft.com/es/vs/community/
 
