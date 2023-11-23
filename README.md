@@ -20,3 +20,7 @@ dotnet --version
 
 1.5. Instalación de Studio 3T Free for MongoDB: https://studio3t.com/download/
 
+![image](https://github.com/luiscoco/codemotion-Barcelona-2023-public-repo/assets/32194879/7b9119c3-2772-4029-a1d7-935d5692981f)
+
+![image](https://github.com/luiscoco/codemotion-Barcelona-2023-public-repo/assets/32194879/63c0ad4e-745f-4563-bd9f-422c3e9fb240)
+
