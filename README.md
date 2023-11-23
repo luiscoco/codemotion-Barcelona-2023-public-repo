@@ -34,7 +34,8 @@ dotnet --version
 
 ![image](https://github.com/luiscoco/codemotion-Barcelona-2023-public-repo/assets/32194879/2ddbefb4-6f60-4433-93db-2254d3d8daf0)
 
-![image](https://github.com/luiscoco/codemotion-Barcelona-2023-public-repo/assets/32194879/b9b2ed51-053d-4f6f-b954-93a0f801c0ed)
+![image](https://github.com/luiscoco/codemotion-Barcelona-2023-public-repo/assets/32194879/86580398-aa81-4bdc-a9dd-7d99c259c39d)
+
 
 
 
