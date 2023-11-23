@@ -1,5 +1,9 @@
 # codemotion Barcelona 2023: LUXOFT SPAIN
 
+Luxoft Automotive Line Of Business (ALOB): https://www.luxoft.com/industries/automotive
+
+Luxoft’s remote repair of software-defined vehicles: https://youtu.be/Wmf26bPiOQQ
+
 ![image](https://github.com/luiscoco/codemotion-Barcelona-2023-public-repo/assets/32194879/0b3f80ff-8ac7-403e-a972-da31ea337fcf)
 
 ![image](https://github.com/luiscoco/codemotion-Barcelona-2023-public-repo/assets/32194879/afeaa29f-6f25-44c5-8558-666501c7a73e)
@@ -41,6 +45,10 @@ dotnet --version
 ![image](https://github.com/luiscoco/codemotion-Barcelona-2023-public-repo/assets/32194879/2ef00d9e-65ee-45da-9c62-44a5a07ca922)
 
 ![image](https://github.com/luiscoco/codemotion-Barcelona-2023-public-repo/assets/32194879/224dd076-461b-42a2-bdda-1bc124810edd)
+
+![image](https://github.com/luiscoco/codemotion-Barcelona-2023-public-repo/assets/32194879/762a7c3c-760a-4a81-a57e-ce3c223723a5)
+
+![image](https://github.com/luiscoco/codemotion-Barcelona-2023-public-repo/assets/32194879/6bbf16c6-35eb-4bbf-82cf-5f0d9879e151)
 
 
 
